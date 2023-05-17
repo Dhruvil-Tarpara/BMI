@@ -1,16 +1,8 @@
-# bmi
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# bmi<table>
+  <tr>
+    <td></td>
+     </tr>
+  <tr>
+   <td><img src="https://github.com/Dhruvil-Tarpara/BMI/assets/121105558/6c759983-30fd-40a3-8ff1-e05dd0c5b9c8"style="width:200px;"></td>
+    <td><img src="https://github.com/Dhruvil-Tarpara/BMI/assets/121105558/da1f0917-31a6-403d-97a4-e7159effa16e"style="width:200px;"></td>
+</tr>
